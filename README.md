@@ -21,6 +21,7 @@ Asegúrate de tener instalados los siguientes paquetes de Python:
 
 Puedes instalar las dependencias necesarias utilizando pip:
 
+bash
 pip install pandas docxtpl python-dateutil
 
 
